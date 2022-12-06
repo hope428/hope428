@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Leon Forsythe
-- 👀 I’m interested in expanding my skills in web development and finding work as a Junior Developer
-- 🌱 I’m currently learning react.js, furthering my javascript skill
+- 👀 Web Developer + Enthusiastic Problem Solver
 - 📫 How to reach me my email is the best way, lvforsythe95@gmail.com
 
 <!---
