@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, Typescript, AWS**
 
-- 👨‍💻 All of my projects are available at [hope428.github.io/react-portfolio/](hope428.github.io/react-portfolio/)
+- 👨‍💻 All of my projects are available at [hope428.github.io/react-portfolio/](https://hope428.github.io/react-portfolio/)
 
 - 💬 Ask me about **React, Javascript, MongoDB**
 
