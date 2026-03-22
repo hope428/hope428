@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Javascript, MongoDB**
 
-- 📫 How to reach me **lvforsythe95@gmail.com, [LinkedIn] (https://www.linkedin.com/in/leon-forsythe-54357b239/) **
+- 📫 How to reach me **lvforsythe95@gmail.com**, [LinkedIn](https://www.linkedin.com/in/leon-forsythe-54357b239/)
 
 - ⚡ Fun fact **I love my guitar 🎸**
 
