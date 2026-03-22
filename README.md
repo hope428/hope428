@@ -1,6 +1,8 @@
 <h1 align="center">Leon Forsythe: full-stack developer and problem solver</h1>
 
 - 🌱 Currently learning **Next.js, Python**
+  
+- Currently working on a project called Guitar Chord Mastery
 
 - Visit my website at [hope428.github.io/react-portfolio/](https://hope428.github.io/react-portfolio/)
 
